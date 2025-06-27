@@ -119,6 +119,10 @@ Giảm thiểu rủi ro lỗi phần cứng đồng thời ảnh hưởng nhiề
 - **Capacity Reservations** **không** thể giữ chỗ (reserve capacity) trong partition placement group.
 
 # Spread Placement Groups
+# What is ALB
+<p align="center">
+  <img src="./images/Spread-Placement-Groups.png" />
+</p>
 
 ## 🧩 Định nghĩa
 - Nhóm các EC2 instance được đặt trên **phần cứng riêng biệt** (distinct hardware).
